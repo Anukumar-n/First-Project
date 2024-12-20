@@ -1,8 +1,8 @@
 import React from "react";
-import UserCard from "./UserCard";
-import ClickHover from "./ClickHover";
-import Counter from "./Counter";
-import Authentication from "./Authentication";
+import UserCard from "./components/UserCard";
+import ClickHover from "./components/ClickHover";
+import Counter from "./components/Counter";
+import Authentication from "./components/Authentication";
 
 const App = () => {
   const user = {
